@@ -6,6 +6,7 @@
   - [@antv/g-device-api](https://github.com/antvis/g-device-api) - A hardware adaptation layer using WebGL & WebGPU underneath.
   - [@antv/layout-gpu](https://github.com/antvis/layout/tree/v5/packages/layout-gpu) - Speed up graph algorithm with GPGPU(WebGL & WebGPU underneath) [How I made it](https://www.yuque.com/antv/ou292n/iumyla)
   - [renderer](https://github.com/xiaoiver/renderer) - A toy renderer inspired by [bevy](https://bevyengine.org). Based on ECS architectural pattern and WebGPU.
+  - [Compute Toys](https://observablehq.com/d/0361c83b691a32b5) - A collection of WGSL compute shaders.
 - 🦀 I've also been learning Rust lately:
   - [@antv/layout-wasm](https://www.npmjs.com/package/@antv/layout-wasm) - A WASM binding of `@antv/layout-rust` using Rust implementing some graph layout algorithm like Force. We also used wasm-bindgen-rayon to implement data parallelism with WebWorkers. [How I made it](https://www.yuque.com/antv/ou292n/liecizqp9wkim3g6)
   - Use [naga](https://github.com/antvis/G/blob/next/rust/Cargo.toml) and its WASM binding for transpiling GLSL to WGSL.
