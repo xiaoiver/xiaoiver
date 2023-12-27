@@ -4,6 +4,7 @@
 - 🎨 I'm interested in rendering technology:
   - [@antv/g](https://github.com/antvis/g) - A flexible rendering engine for visualization adapting all underlying rendering APIs (Canvas2D / SVG / WebGL / WebGPU / CanvasKit / Node.js) on the web side. It supports for upper tier products such as [G2](https://github.com/antvis/g2), [G6](https://github.com/antvis/g6) and [L7](https://github.com/antvis/l7).
   - [@antv/g-device-api](https://github.com/antvis/g-device-api) - A hardware adaptation layer using WebGL & WebGPU underneath.
+  - [@antv/a8](https://github.com/antvis/A8) - An audio visualizer including effects such as GPU particles.
   - [@antv/layout-gpu](https://github.com/antvis/layout/tree/v5/packages/layout-gpu) - Speed up graph algorithm with GPGPU(WebGL & WebGPU underneath) [How I made it](https://www.yuque.com/antv/ou292n/iumyla)
   - [renderer](https://github.com/xiaoiver/renderer) - A toy renderer inspired by [bevy](https://bevyengine.org). Based on ECS architectural pattern and WebGPU.
   - [Compute Toys](https://observablehq.com/@antv/compute-toys) - A collection of WGSL compute shaders.
