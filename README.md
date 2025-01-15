@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-- 🔭 I'm a front-end engineer currently working on [AntV](https://antv.antgroup.com/).
+- 🔭 I'm a front-end engineer in a startup and previously worked at [AntV](https://antv.antgroup.com/).
 - 📖 I'm writing a series of tutorials on infinite canvas: https://infinitecanvas.cc/.
 - 🎨 I'm interested in rendering technology:
   - [@antv/g](https://github.com/antvis/g) - A flexible rendering engine for visualization adapting all underlying rendering APIs (Canvas2D / SVG / WebGL / WebGPU / CanvasKit / Node.js) on the web side. It supports for upper tier products such as [G2](https://github.com/antvis/g2), [G6](https://github.com/antvis/g6) and [L7](https://github.com/antvis/l7).
