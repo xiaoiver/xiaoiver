@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-- 🔭 I'm a front-end engineer in a startup called [YouMind](youmind.com) and previously worked at [AntV](https://antv.antgroup.com/).
+- 🔭 I'm a front-end engineer in a startup called [YouMind](https://www.youmind.com) and previously worked at [AntV](https://antv.antgroup.com/).
 - 📖 I'm writing a series of tutorials on infinite canvas: https://infinitecanvas.cc/.
 - 🖼️ I'm building [Gallery Mate](https://www.gallerymate.xyz/en), an AI-powered companion for museum visits, combining artwork recognition, audio guides, and personal journals across mobile and web.
 - 🎨 I'm interested in rendering technology:
